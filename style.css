@@ -1,0 +1,22 @@
+nav
+ {
+    background-color: rgb(79, 255, 196);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: aquamarine;
+    font-family: monospace;
+}
+
+.img {
+    width: 180px;
+    height: 210px;
+}
+
+footer {
+    background-color: rgb(79, 255, 196);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: right;
+    padding: 5px;
+}
